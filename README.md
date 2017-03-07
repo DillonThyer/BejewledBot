@@ -11,9 +11,8 @@ Author: Dillon Thyer
 
 ## How to run the bot:
 1. ensure you have the following python libraries installed as they are dependancies:
- - PIL (Python imaging library)
- - Autopy library
-You can find these easily enough online.
+ - [PIL](http://www.pythonware.com/products/pil/) (Python imaging library)
+ - [autopy](http://www.autopy.org/)
 
 2. Once you have given the script file permissions/are ready to run it as an admin, make sure you have bejewled open and ready first. Then start the script, move anything in the way of the bejewled window away and click on the bejewled window. In 5 seconds of starting the bot will auto resize the window and move it to the top left hand of the corner of your script. The bot will run indefinitely now till you manually close it.
 
