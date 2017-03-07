@@ -25,6 +25,11 @@ You can find these easily enough online.
 Press escape and bring up the bejewled menu mid game, hopefully the bot should recognise the menu and stop, then being carefull again,
 follow step 4.
 
+## High scores
+I haven't run too many tests but the bot on current settings seems to average around 2-5 million depending on if it gets stuck or not. Please ignore the silly names, but below are the highscores for the bot so far.
+
+![scores](https://cloud.githubusercontent.com/assets/26242249/23654734/f86652cc-0381-11e7-8a28-4f4bddc33674.jpg) 
+
 ### Improvements:
 - Easier method to kill the script, e.g. break on a keypress.
 - Flashy animations limit accuracy of color recognition, could change/improve the color recognition method.
