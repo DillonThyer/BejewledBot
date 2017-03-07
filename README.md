@@ -21,10 +21,10 @@ You can find these easily enough online.
 
 4. CLOSING THE BOT: todo: have a keyboard shortcut ready to kill the script, but you can make sure you have something ready to close it. At the end of a game, it should recognise the menu and the mouse will stop moving around. Now  carefully close the bot, making sure not to bring any windows over the bejewled window lest it play your desktop, kill the script.
 
-### IF YOU MUST EXIT MID GAME (not advised):
+## If you must exit mid game (not advised):
 Press escape and bring up the bejewled menu mid game, hopefully the bot should recognise the menu and stop, then being carefull again,
 follow step 4.
 
-### BOT IMPROVEMENTS TO BE MADE:
+### Improvements:
 - Easier method to kill the script, e.g. break on a keypress.
 - Flashy animations limit accuracy of color recognition, could change/improve the color recognition method.
