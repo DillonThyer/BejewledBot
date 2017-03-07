@@ -19,7 +19,7 @@ You can find these easily enough online.
 
 3. navigate your way into the bejewled window, and start a game of bejewled (lightning mode works best). The bot will start playing when the game starts, and next time you play again till you close it it will keep playing.
 
-4. CLOSING THE BOT: todo: have a keyboard shortcut ready to kill the script, but you can make sure you have something ready to close it. At the end of a game, it should recognise the menu and the mouse will stop moving around. Now  carefully close the bot, making sure not to bring any windows over the bejewled window lest it play your desktop, kill the script.
+4. Closing the bot: to have a single convinient keyboard shortcut ready to kill the script is still a tusu, but you can make sure you have something ready to close it. At the end of a game, it should recognise the menu and the mouse will stop moving around. Now  carefully close the bot, making sure not to bring any windows over the bejewled window lest it play your desktop, kill the script.
 
 ### If you must exit mid game (not advised):
 Press escape and bring up the bejewled menu mid game, hopefully the bot should recognise the menu and stop, then being carefull again,
