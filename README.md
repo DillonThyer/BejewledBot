@@ -24,6 +24,9 @@ Author: Dillon Thyer
 Press escape and bring up the bejewled menu mid game, hopefully the bot should recognise the menu and stop, then being carefull again,
 follow step 4.
 
+##Demonstration:
+[![Demonstration video](https://img.youtube.com/vi/D251Tj5Xq_s/0.jpg)](https://www.youtube.com/watch?v=D251Tj5Xq_s "Bejewled bot demonstration")
+
 ## High scores
 I haven't run too many tests but the bot on current settings seems to average around 2-5 million depending on if it gets stuck or not. Please ignore the silly names, but below are the highscores for the bot so far.
 
