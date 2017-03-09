@@ -24,7 +24,7 @@ Author: Dillon Thyer
 Press escape and bring up the bejewled menu mid game, hopefully the bot should recognise the menu and stop, then being carefull again,
 follow step 4.
 
-##Demonstration:
+##Demonstration
 Click this [link](https://www.youtube.com/watch?v=D251Tj5Xq_s), or the picture below to see a demo video on youtube.
 [![Demonstration video](https://img.youtube.com/vi/D251Tj5Xq_s/0.jpg)](https://www.youtube.com/watch?v=D251Tj5Xq_s "Bejewled bot demonstration")
 
